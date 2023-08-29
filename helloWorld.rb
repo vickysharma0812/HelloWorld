@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class helloWorld < Formula
+class HelloWorld < Formula
   desc "This program install HelloWorld Fortran program."
   homepage "https://github.com/vickysharma0812/HelloWorld.git"
   url "https://github.com/vickysharma0812/HelloWorld/archive/refs/tags/v23.09.0.tar.gz"
