@@ -13,7 +13,7 @@ class HelloWorld < Formula
   depends_on "gfortran"
 
   def install
-    bin.install "helloWorld"
+    bin.install "helloworld"
     bin.install Dir["src"]
     bin.install "README.md"
     bin.install "LICENSE"
